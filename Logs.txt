@@ -1,0 +1,4 @@
+Kunj    LAPTOP-EP8ORDTG/10.1.17.111      Access Denied       2022/06/29 11:27:42
+Kathan    LAPTOP-EP8ORDTG/10.1.17.111      Access Denied       2022/06/29 11:27:50
+Kathan    LAPTOP-EP8ORDTG/10.1.17.111      Access Denied       2022/06/29 11:38:06
+ATTACK    LAPTOP-EP8ORDTG/192.168.0.102      Access Granted      2022/07/01 12:17:01
